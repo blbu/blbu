@@ -1,16 +1,17 @@
-## Hi there 👋
+# [Future Terminal](https://www.futureterminal.com/)
+## Program your way to victory in this coding MMORTS.
 
-<!--
-**blbu/blbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Write code to take care of base building, economy, and military tactics.
 
-Here are some ideas to get you started:
+You can watch without an account, but you'll need one to upload your code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Go to https://www.futureterminal.com/ to play.
+
+# [Blake Burgess](https://www.bjb.nz)
+**blbu** is my GitHub profile.
+
+> My mission is to develop and operate effective software systems with a focus on continuous improvement.
+
+My clear communication, tool-building, and automation skills all bring an advantage in helping teams succeed. Known for having a love of learning, teaching, and applying new skills. All this comes from having a passion for computers and people for over twenty years.
+
+Go to https://www.bjb.nz for more.
